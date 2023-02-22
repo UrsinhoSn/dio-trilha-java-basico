@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraindo-um-Bootcamp-Usando-Orienta-o-a-Objetos-em-Java/Abstraindo-um-Bootcamp-Usando-Orienta-o-a-Objetos-em-Java.iml" filepath="$PROJECT_DIR$/Abstraindo-um-Bootcamp-Usando-Orienta-o-a-Objetos-em-Java/Abstraindo-um-Bootcamp-Usando-Orienta-o-a-Objetos-em-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoBancoDigital/ProjetoBancoDigital.iml" filepath="$PROJECT_DIR$/ProjetoBancoDigital/ProjetoBancoDigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
     </modules>
   </component>
